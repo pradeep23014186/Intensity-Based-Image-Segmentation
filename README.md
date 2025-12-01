@@ -1,4 +1,4 @@
-<h1 align=center>Thresholding using OpenCV</h1>
+<h1 align=center>Intensity-Based-Image-Segmentation</h1>
 
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
